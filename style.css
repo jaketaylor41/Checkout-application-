@@ -1,0 +1,65 @@
+body{
+    background-color: whitesmoke;
+}
+
+
+p{
+    font-family: "Myriad Pro";
+}
+
+
+
+
+#confirmBtn{
+    position: relative;
+    transition: .5s ease;
+    top: 50px;
+    left: 0px;
+    width: 75px;
+    height: 25px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-family: "Myriad Pro";
+    font-size: 17px;
+    text-align: center;
+}
+
+.summary h2, .summary h5{
+    font-family: "Myriad Pro";
+    width: 600px;
+    margin: 0 auto;
+    min-height: 300px;
+    max-height: 600px;
+    min-width: 300px;
+    max-width: 600px;
+    background-color: whitesmoke;
+    padding-left: 30px;
+    position: center;
+
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.main{
+    width: 600px;
+    margin: 0 auto;
+    min-height: 300px;
+    max-height: 600px;
+    min-width: 300px;
+    max-width: 600px;
+    background-color: whitesmoke;
+    padding-left: 30px;
+    position: center;
+}
+
+img{
+    align-content: center;
+    max-height: 400px; ;
+    max-width: 400px;
+}
